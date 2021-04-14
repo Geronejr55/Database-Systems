@@ -1,0 +1,108 @@
+1|70.4|90|50
+Scott
+Michael
+Kobe
+Larry
+Daron
+2424|1|70|Kobe|Bryant|Business
+2424|2|75|Kobe|Bryant|Business
+2424|3|95|Kobe|Bryant|Business
+2424|4|98|Kobe|Bryant|Business
+2424|5|74|Kobe|Bryant|Business
+2424|10|65|Kobe|Bryant|Business
+2424|11|91|Kobe|Bryant|Business
+2424|12|90|Kobe|Bryant|Business
+2424|13|95|Kobe|Bryant|Business
+2323|1|90|Michael|Jordan|Biology
+2323|2|78|Michael|Jordan|Biology
+2323|3|82|Michael|Jordan|Biology
+2323|4|58|Michael|Jordan|Biology
+2323|5|94|Michael|Jordan|Biology
+2323|6|100|Michael|Jordan|Biology
+2323|7|80|Michael|Jordan|Biology
+2323|8|90|Michael|Jordan|Biology
+2323|9|100|Michael|Jordan|Biology
+2323|10|79|Michael|Jordan|Biology
+2323|11|0|Michael|Jordan|Biology
+2323|12|81|Michael|Jordan|Biology
+2323|13|88|Michael|Jordan|Biology
+4545|1|55|Larry|Bird|Computer Science
+4545|2|65|Larry|Bird|Computer Science
+4545|3|92|Larry|Bird|Computer Science
+4545|4|85|Larry|Bird|Computer Science
+4545|5|90|Larry|Bird|Computer Science
+4545|10|75|Larry|Bird|Computer Science
+4545|11|90|Larry|Bird|Computer Science
+4545|12|53|Larry|Bird|Computer Science
+4545|13|68|Larry|Bird|Computer Science
+4545|14|48|Larry|Bird|Computer Science
+4545|15|88|Larry|Bird|Computer Science
+4545|16|72|Larry|Bird|Computer Science
+4545|17|82|Larry|Bird|Computer Science
+5555|1|87|Daron|Quinton|Performing Arts
+5555|2|89|Daron|Quinton|Performing Arts
+5555|3|81|Daron|Quinton|Performing Arts
+5555|4|95|Daron|Quinton|Performing Arts
+5555|5|100|Daron|Quinton|Performing Arts
+5555|6|54|Daron|Quinton|Performing Arts
+5555|7|54|Daron|Quinton|Performing Arts
+5555|8|80|Daron|Quinton|Performing Arts
+5555|9|74|Daron|Quinton|Performing Arts
+5555|10|84|Daron|Quinton|Performing Arts
+5555|11|84|Daron|Quinton|Performing Arts
+5555|12|83|Daron|Quinton|Performing Arts
+5555|13|62|Daron|Quinton|Performing Arts
+5555|14|68|Daron|Quinton|Performing Arts
+5555|15|82|Daron|Quinton|Performing Arts
+5555|16|75|Daron|Quinton|Performing Arts
+5555|17|94|Daron|Quinton|Performing Arts
+1234|1|50|Scott|Smith|Mathematics
+1234|2|50|Scott|Smith|Mathematics
+1234|3|90|Scott|Smith|Mathematics
+1234|4|0|Scott|Smith|Mathematics
+1234|5|100|Scott|Smith|Mathematics
+1234|6|80|Scott|Smith|Mathematics
+1234|7|14|Scott|Smith|Mathematics
+1234|8|79|Scott|Smith|Mathematics
+1234|9|56|Scott|Smith|Mathematics
+1234|14|92|Scott|Smith|Mathematics
+1234|15|96|Scott|Smith|Mathematics
+1234|16|68|Scott|Smith|Mathematics
+1234|17|92|Scott|Smith|Mathematics
+
+30|17|2|100
+1|12345|HW|10
+2|12345|Midterm|20
+3|12345|Project|25
+4|12345|Final|30
+5|12345|Participation|15
+1|12345|HW|5
+2|12345|Midterm|15
+3|12345|Project|25
+4|12345|Final|35
+5|12345|Participation|20
+
+2424|2|75
+2323|2|78
+4545|2|65
+5555|2|89
+1234|2|50
+2424|2|77
+2323|2|80
+4545|2|67
+5555|2|91
+1234|2|52
+2424|3|95
+2323|3|82
+4545|3|92
+5555|3|81
+1234|3|90
+2424|3|95
+2323|3|82
+4545|3|92
+5555|3|83
+1234|3|90
+
+35
+
+70
